@@ -1,0 +1,9 @@
+{
+  "adapters": {
+    "ollama": {
+      "url": "http://localhost:11434",
+      "model": "mistral:latest",
+      "embedding_model": "nomic-embed-text"
+    }
+  }
+}
